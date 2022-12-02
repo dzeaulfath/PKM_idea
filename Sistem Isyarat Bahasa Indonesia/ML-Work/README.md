@@ -39,5 +39,3 @@ After we running the preprocessing and the training lastly have the h5 file mode
 
 You can  run this video stream and prediction model by run this python jupyter file in a machine that installed with python and jupyter notebook in terminal or Visual Code:
 - predictiion_model.ipynb >>> this will show output camera webcam and the prediction of the sign language.
-
-![unknown](https://user-images.githubusercontent.com/16248869/120894057-ad24aa80-c640-11eb-8253-63a694904345.png)
